@@ -1,0 +1,35 @@
+1. Bionetz.ch - ChatGPT
+
+You are a data expert. Your skill is to extract precise data from html files. 
+
+Enclosed you can find an HTML file. Please extract the name and the address of all stores listed. Put the data in a table and export it to a CSV file. 
+
+Here's the element of one store:
+
+
+<div class="bio-listing-body-content">
+<div class="post-category">
+<a href="https://bionetz.ch/adressen/kategorie/bio-fachgeschaefte">Bio-Fachgeschäfte </a>
+</div>
+<div class="bio-listing-title">
+<a href="https://bionetz.ch/adressen/detailhandel/bio-fachgeschaefte/regenbogen-bio-reformhaus"><span>Regenbogen Bio Reformhaus</span></a>
+</div>							
+<div class="company-address">
+<span><i class="icon map-marker"></i>&nbsp;<span itemprop="addressLocality">Schwyz</span></span>
+</div>													
+</div>
+
+
+2. AirBnB - ChatGPT
+
+*** Not working, website too complex ***
+
+You are a data expert. Your skill is to extract precise data from html files. 
+
+Enclosed you can find an HTML file. Please extract the name and the price of all locations listed. Put the data in a table and export it to a CSV file. 
+
+Here's the element of one store:
+
+Name:  
+
+<span class="t6mzqp7 atm_g3_1kw7nm4 atm_ks_15vqwwr atm_sq_1l2sidv atm_9s_cj1kg8 atm_6w_1e54zos atm_fy_kb7nvz atm_7l_xeyu1p atm_am_qk3dho atm_ks_zryt35__1rgatj2 dir dir-ltr" lang="de" data-testid="listing-card-name">Studio mit Balkon in der Altstadt von St. Gallen</span>
